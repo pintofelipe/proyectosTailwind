@@ -1,0 +1,17 @@
+{
+  "name": "tailwind",
+  "version": "0.0.1",
+  "description": "Este es mi proyecto de utilidades en tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\u001b[C\u001b[C"
+  ],
+  "author": "Felipe Pinto",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
